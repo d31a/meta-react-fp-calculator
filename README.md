@@ -1,2 +1,2 @@
 # meta-react-fp-calculator
-Created with CodeSandbox
+A basic calculator app created as the final project of the Meta Frontend Development React Basics course.
